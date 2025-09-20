@@ -9,7 +9,7 @@ I am a proficient full-stack web developer with expertise in **HTML, CSS, JavaSc
 - **Name:** Kolla Harsha Vardhan
 - 📞 **Phone:** +91-6303237730
 - 📧 **Email:** [vharsha101@gmail.com](mailto:vharsha101@gmail.com)
-- 🌐 **Portfolio Live Link:** [View My Portfolio](https://your-portfolio-link.netlify.app/)
+- 🌐 **Portfolio Live Link:** [View My Portfolio]([https://your-portfolio-link.netlify.app/](https://harsha-portfolio-io.netlify.app/))
 - 📄 **Resume:** [Download Resume](https://your-resume-link)
 
 ---
